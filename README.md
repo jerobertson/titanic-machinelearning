@@ -1,0 +1,2 @@
+# titanic-machinelearning
+A number of machine learning models tasked with analysing the Titanic disaster and predicting whether certain passengers survived or not based on their age, gender, class, and other attributes.
